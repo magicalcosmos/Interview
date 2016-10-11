@@ -1,11 +1,12 @@
-# Interview
-1.
+# Interview #
+
+1. 
 function foo(){
     foo();
 }
 foo();
-*.执行结果和如何解决
-*.js栈的最大值是多少和最小值是多少
+* 执行结果和如何解决
+* js栈的最大值是多少和最小值是多少
 
 2. 
 function foo(){
