@@ -5,8 +5,8 @@ function foo(){
     foo();
 }
 foo();
-* 执行结果和如何解决
-* js栈的最大值是多少和最小值是多少
+>   执行结果和如何解决
+>   js栈的最大值是多少和最小值是多少
 
 2. 
 function foo(){
@@ -20,15 +20,14 @@ function foo(){
 foo();
 执行结果是多少和为什么
 
-3.
+3. 
 var obj = {
     a : 1
 }
 obj.a = 2;
 如何让obj.a的值仍然等于1?
 
-4.
-
+4. 
 let obj = {
     a : () =>{
         return this == window;
